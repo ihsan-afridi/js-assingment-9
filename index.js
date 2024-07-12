@@ -34,8 +34,8 @@ for (let i = 0; i < 5; i++) {
   nums.push(Number(num));
 }
 
-console.log(nums); // Output: [num1, num2, num3, num4, num5]
-
+console.log(nums); 
+      
 
 // DESCRIPTION:
 // 1. user se koi b string input le
